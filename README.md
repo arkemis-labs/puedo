@@ -1,5 +1,7 @@
 # ¿puedo?
 
+<img width="1000" height="913" alt="image" src="https://github.com/user-attachments/assets/85ffa636-97ab-44db-bc0f-2d4bd8929b0a" />
+
 A type-safe permission management library for TypeScript applications.
 
 ## Features
